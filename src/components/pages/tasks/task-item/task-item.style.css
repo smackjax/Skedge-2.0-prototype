@@ -1,0 +1,11 @@
+.task-advanced-gui-item{
+    font-size: 1.1rem;
+    border-bottom: 1px solid #ddd;
+}
+.task-advanced-gui-item.num-needed {
+    padding-bottom: 5px;
+}
+.task-exclusive-label{
+    padding-top: 5px ;
+    padding-bottom:5px;
+}

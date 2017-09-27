@@ -1,0 +1,33 @@
+.main-list-dropdown{
+    background-color: rgba(255,255,255,.7);
+}
+.sublist-dropdown{
+    margin-top: 5px;
+
+}
+.main-dropdown-subgroup {
+    width: 85%;
+}
+ .sublist-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin:15px auto 10px; 
+    padding-bottom: 8px;
+
+    border-bottom: 1px solid #999;
+}
+
+.sublist-header .sublist-title{
+    font-size: 1.2rem;
+}
+.sublist-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 89%;
+    margin: 10px auto;
+    padding: 5px
+}

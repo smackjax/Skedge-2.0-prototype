@@ -1,0 +1,7 @@
+.all-scheds-item {
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    padding-bottom: 5px;
+    margin-top: 10px
+}

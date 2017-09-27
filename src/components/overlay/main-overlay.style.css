@@ -1,0 +1,10 @@
+.main-slide-wrapper{
+    min-height: 100%;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgba(50,50,50,.7);
+    z-index: 1000;
+    transition: top .5s;
+}

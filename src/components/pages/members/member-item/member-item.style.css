@@ -1,0 +1,16 @@
+.unavailable-dates-wrapper {
+    width: 95%;
+    margin: auto;
+    margin-top: 5px; 
+}
+.unavail-dates-list{
+    padding-left: 5px;
+    color: #A55936;
+}
+.unavailable-date-item {
+    margin-top:10px;
+    font-size: 1rem
+}
+.unavail-delete-btn {
+    margin-right: 5px;
+}

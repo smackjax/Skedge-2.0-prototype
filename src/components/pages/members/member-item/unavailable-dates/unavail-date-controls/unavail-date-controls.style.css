@@ -1,0 +1,28 @@
+.unavailable-dates-controls {
+    padding: 20px;
+    background-color: #f5f5f5;
+}
+.unavail-controls-header{
+    font-size: 1.4rem;
+    
+    border-bottom: 1px solid #ddd;
+}
+.unavail-controls-btn-wrap {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ddd;
+}
+.unavail-check-wrap {
+    margin-top: 20px;
+}
+.unavail-check-label{
+    padding: 7px 30px;
+    background-color: #fdfdfd;
+    border: 1px solid #ddd;
+}
+.unavail-checkbox{ 
+    margin-right: 10px;
+}
+.select-date-input {
+    margin-top: 20px; 
+}

@@ -1,0 +1,36 @@
+#main-nav{
+    box-shadow: 0px 0px 2px 0px #6a6a6a;
+    background-color: #f5f5f5;
+}
+
+#main-nav ul li a i{
+    font-size: 2em;
+}
+#main-nav ul li a{
+    margin: 2px 10px;
+    padding: 5px;
+}
+#main-nav .navbar-nav{
+    flex-direction: row;
+}
+
+#members-btn i{
+
+    color: #53C3E2;
+}
+#members-btn:hover i{
+    color: #227ED4;
+}
+
+#groups-btn:hover i{
+    color: #551C44;
+}
+#tasks-btn:hover i{
+    color: #194E2B;
+}
+#days-btn:hover i{
+    color: #5E5505;
+}
+#sched-btn:hover i{
+    color: #692A00;
+}

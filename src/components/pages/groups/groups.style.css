@@ -1,0 +1,8 @@
+.page.groups .main-add-btn{
+    background: #b868bd;
+
+}
+.page.groups .main-add-btn:hover{
+    background: #5A235E;
+    color: #ffffff;
+}

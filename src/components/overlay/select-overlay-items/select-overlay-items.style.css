@@ -1,0 +1,25 @@
+.select-overlay-items-header {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    
+    max-width: 200px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-size: 1.7rem;
+    border-bottom: 1px solid #ddd;
+}
+
+.select-subgroup-items {
+    background: #efefef;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.select-items-overlay-controls {
+    margin-top:15px;
+    padding-top: 15px;
+    border-top: 1px solid #ddd;
+}

@@ -1,0 +1,8 @@
+.page.tasks .main-add-btn{
+    background: #6BBC77;
+
+}
+.page.tasks .main-add-btn:hover{
+    background: #387F42;
+    color: #ffffff;
+}

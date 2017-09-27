@@ -1,0 +1,11 @@
+.logo-wrap,
+h2,
+h3{
+    text-align: center;
+}
+.login-logo {
+    height: 140px;
+}
+.btn-orange{
+    background-color: #eb8748;
+}

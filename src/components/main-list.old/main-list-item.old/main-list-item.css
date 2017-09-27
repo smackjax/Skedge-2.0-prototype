@@ -1,0 +1,61 @@
+.main-list-wrapper{
+    
+}
+
+.main-list-item{
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #999;
+    font-size: 1.3rem;
+    width:95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-list-item input.form-control{
+    font-size: 1.25rem; 
+}
+.main-item-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.main-item-header .form-check{
+    margin-right:auto; 
+    display: flex;
+    align-items: center;
+}
+.main-item-label{
+    width:100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.main-item-header .form-check .form-check-label{
+    padding-left: 1.5em;
+}
+.main-item-btn{
+    background: rgba(255,255,255,.8);
+    border: 0;
+    margin: 0 0 0 10px;
+    padding: 5px 15px;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.main-item-btn:hover{
+    background: #fff;
+}
+
+.no-select .item-name{
+    margin-left: 30px;
+}
+.no-select .main-item-btn{
+    margin-left:auto; 
+    margin-right: 20px;
+}
+
+.sublist-dropdown{
+    max-height: 0px;
+    overflow: hidden;
+    transition: max-height .3s ease-out;
+}

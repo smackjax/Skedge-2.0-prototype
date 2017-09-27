@@ -1,0 +1,23 @@
+.main-list-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 94%;
+    max-width: 350px;
+    margin: 20px auto;
+}
+
+.main-list-header .main-btn i{
+    font-size: 1.1rem;
+}
+
+.main-list-header .delete-btn{
+    border-color: #C13434;
+    color: #C13434;
+    min-width: 10%;
+}
+.main-list-header .select-all-check{
+    min-width: 30px;
+    height: 30px;
+}

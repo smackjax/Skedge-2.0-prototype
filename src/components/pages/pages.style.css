@@ -1,0 +1,93 @@
+.item-page{
+    /* Keeps the 'add new' button from covering controls on the last list item */
+    padding-bottom: 110px;
+}
+.btn{
+    cursor: pointer;
+    color: #efefef;
+}
+.page-controls{
+    display: flex;
+    justify-content: space-around;
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 25px;
+    align-items: center;
+}
+.main-item-header {
+    margin-bottom: 5px;
+}
+.main-add-btn{
+    box-shadow: 0px 0px 2px 1px #333;
+    position: fixed;
+    right: 50px;
+    bottom: 30px;
+    height: 60px;
+    width: 60px;
+    cursor: pointer;
+}
+.main-add-btn i{
+    font-size: 25px;
+}
+
+.page-item{
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #999;
+    font-size: 1.2rem;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-item-wrapper{
+    display: flex;
+    align-items: center;
+}
+.main-item-label{
+    width: 100%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.main-item-btns-wrap{
+    margin-bottom: 5px;
+}
+
+.new-item-page {
+    background-color: #f1f1f1;
+    padding-bottom: 40px;
+}
+
+.sublist-wrapper{
+    width: 95%;
+    margin: 0px auto 10px;
+    padding-top: 20px;
+
+}
+.sublist-title {
+    border-bottom: 1px solid;
+    margin-right: 30px
+}
+.sublist{
+    padding-left: 30px;
+}
+.sublist-item{
+    margin-top:2px;
+    margin-bottom: 2px; 
+}
+.new-item-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 2.1rem;
+    text-align: center; 
+    margin-bottom: 20px;
+}
+
+.new-item-checklist {
+    margin-bottom: 10px;
+}
+.new-item-checklist-header {
+    font-size: 1.2rem;
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 5px; 
+}

@@ -1,0 +1,41 @@
+.main-list-dropdown{
+    background-color: rgba(255,255,255,.7);
+}
+.sublist-dropdown{
+    margin-top: 5px;
+
+}
+.main-dropdown-subgroup {
+    width: 85%;
+}
+ .subgroup-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 80%;
+    margin:15px auto 10px; 
+    padding-bottom: 8px;
+
+    border-bottom: 1px solid #999;
+}
+
+.subgroup-header .subgroup-title{
+    font-size: 1.2rem;
+}
+.subgroup-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 89%;
+    margin: 10px auto;
+    padding: 5px;
+    font-size: 1.3rem;
+    
+}
+.subgroup-delete-btn{
+    margin-right: 20px;
+    background-color: #AF2C2C;
+    color: #efefef;
+    cursor: pointer;
+}

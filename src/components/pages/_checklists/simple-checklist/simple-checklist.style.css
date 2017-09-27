@@ -1,0 +1,10 @@
+.checklist-item {
+    padding-top:3px;
+    padding-bottom: 3px; 
+    border-bottom-width: 1px;
+    border-bottom-style: solid; 
+    width: 100%;
+}
+.checklist-item-name{
+    margin-left: 1rem;
+}
